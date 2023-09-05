@@ -15,8 +15,8 @@ from pdfminer.high_level import extract_text
 text = extract_text('1_R4_hamada.pdf')
 import re
 m = re.search(r'(?<=【凍結胚を用いた治療成績】).+(?=来院患者情報)', text, flags=re.DOTALL)
-# m.group(0)にPDFではテーブルになっている凍結胚を用いた治療の成績データ含まれる
+# `m.group(0)`にPDFではテーブルになっている凍結胚を用いた治療の成績データが含まれる
 # ' \n\n融解胚子宮内移植 \n\n131 \n移植総回数（回） \n22 \n妊娠数（回） \n13 \n生産分娩数（回） \n移植あたり生産率（%）  9.9 \n\n'
-# m2 = re.findall(r'[\d.]+', m.group(0)) で可視化する実際の数値を得る
+# `m2 = re.findall(r'[\d.]+', m.group(0))`で可視化する実際の数値を得る
 # ['131', '22', '13', '9.9']
 ```
