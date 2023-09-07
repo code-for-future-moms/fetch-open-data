@@ -64,11 +64,11 @@ with open(args.output_path, 'a', encoding="utf-8", newline='') as fout:
                 )
             else:
                 writer.writerow(
-                    [name, stats[0], stats[1], stats[2], stats[3], clinic_address, "INCONSISTENT"]
+                    [name, stats[0], stats[1], stats[2], stats[3], clinic_address, "INCONSISTENT{}:{}".format(args.input_path, ','.join(stats))]
                 )
         except ZeroDivisionError:
             writer.writerow(
-                [name, stats[0], stats[1], stats[2], stats[3], clinic_address, "INCONSISTENT"]
+                [name, stats[0], stats[1], stats[2], stats[3], clinic_address, "INCONSISTENT{}:{}".format(args.input_path, ','.join(stats))]
             )
     elif name is None:
         writer.writerow(["", "", "", "", "", "", "NAME_NOT_IDENTIFIED:{}".format(args.input_path)])
