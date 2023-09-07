@@ -2,6 +2,7 @@
 PDFからの情報抽出やGitHub Actionsなどを試すrepo
 
 ## PDFからの情報抽出のテスト
+- __pdfminer.sixではなくPopplerを利用することにしたため以下の内容は古く参考にしなくてよい__
 - サンプルPDFの入手
   - [東京都特定不妊治療費助成事業指定医療機関の情報公開（2020年1月から12月分）](https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funin/shiteiiryou-jouhoukoukai.html) から好きな医療機関のPDFをダウンロード
   - 以下の例では`1_R4_hamada.pdf`をダウンロードしたと仮定して説明
