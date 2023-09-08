@@ -1,5 +1,8 @@
 # information extraction
 
+## 最終的に得られたデータ
+- [hospital-data-address-R40620.tsv](https://github.com/code-for-future-moms/fetch-open-data/blob/main/data/hospital-data-address-R40620.tsv)
+
 ## 前準備
 - 必要なライブラリのインストール
 ```commandline
