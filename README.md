@@ -1,7 +1,10 @@
 # fetch-open-data
 PDFからの情報抽出やGitHub Actionsなどを試すrepo
 
-## PDFからの情報抽出のテスト
+## 東京都の公開しているPDFからの情報抽出
+- [information-extraction](https://github.com/code-for-future-moms/fetch-open-data/tree/main/information-extraction) 参照
+
+## ~~PDFからの情報抽出のテスト~~
 - __pdfminer.sixではなくPopplerを利用することにしたため以下の内容は古く参考にしなくてよい__
 - サンプルPDFの入手
   - [東京都特定不妊治療費助成事業指定医療機関の情報公開（2020年1月から12月分）](https://www.fukushi.metro.tokyo.lg.jp/kodomo//kosodate/josei/funin/shiteiiryou-jouhoukoukai.html) から好きな医療機関のPDFをダウンロード
