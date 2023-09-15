@@ -1,0 +1,2 @@
+- 総務省が公開している[全国地方公共団体コードの一覧表](https://www.soumu.go.jp/main_content/000894847.xls)の東京都に関する部分を利用してプログラムでhtmlを生成する
+- https://github.com/code-for-future-moms/prototype-k/blob/94c009966e50b84677bd3af35025f6bfcf488ea9/k4/index.html#L47-L73 を作成した
