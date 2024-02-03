@@ -16,7 +16,6 @@ with open('../data/cfa-20231213v2.tsv', newline='') as csvfile:
         else:
             frac_births = float(num_births)/num_transfers
             reliability_range = 1.96 * math.sqrt((num_transfers - num_births) * frac_births * frac_births + num_births * (1 - frac_births) * (1 - frac_births))/num_transfers
-            print(reliability_range)
             frac_births_per = frac_births * 100
             reliability_range_per = reliability_range * 100
             if frac_births_per - reliability_range_per > national_ave:
