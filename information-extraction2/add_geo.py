@@ -1,11 +1,19 @@
+import argparse
 import csv
 import json
+import time
 import urllib.request
 
 # 国土地理院API
 # 参考: https://elsammit-beginnerblg.hatenablog.com/entry/2021/07/11/122916
 url_base = "https://msearch.gsi.go.jp/address-search/AddressSearch?q="
-with open('../data/cfa-20231213.tsv', newline='') as csvfile:
+
+parser = argparse.ArgumentParser(description='Parse given URL')
+parser.add_argument('input', type=str, help='input file name')
+
+args = parser.parse_args()
+
+with open(args.input, newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
     header = next(reader)
     header.append("longitude")
@@ -21,3 +29,4 @@ with open('../data/cfa-20231213.tsv', newline='') as csvfile:
             row.append(long)
             row.append(lat)
             print("\t".join(row))
+            time.sleep(0.01)
