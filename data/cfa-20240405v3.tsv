@@ -1,0 +1,346 @@
+name	address	prefecture	phone	flag1	flag2	flag3	flag4	flag5	flag6	flat7	flag8	frozen_egg	frozen_preg	frozen_birth	frozen_rate	clinic_url	longitude	latitude	icon
+北海道大学病院	北海道札幌市北区北十四条西５丁目	北海道	81117065941	True	True	True	True	True	True	False	False	0	0	0	0		141.345444	43.077339	N/A
+さっぽろARTクリニックn24	北海道札幌市北区北二十三条西3丁目2-37第２北進建鉄ビル２階	北海道	81117926691	True	True	True	True	True	True	False	False	364	141	94	26	https://sapporoart.com/	141.346146	43.090099	consistent
+おびひろARTクリニック	北海道帯広市東三条南9丁目3番地	北海道	81155671162	True	True	True	True	True	True	False	False	0	0	0	0	https://obihiro-art.jp/	143.209717	42.922504	N/A
+医療法人社団 みずうち産科婦人科	北海道旭川市豊岡４条３丁目２−５	北海道	81166316713	True	True	True	True	True	True	False	False	0	0	0	0	https://www.mizuuchi.or.jp	142.396133	43.760426	N/A
+医療法人社団卵会　とまこまいレディースクリニック	北海道苫小牧市弥生町2-12-5	北海道	81144735353	True	True	True	True	False	True	False	False	29	14	8	28	https://tomakomai-ladies.net/	141.577820	42.627502	consistent
+KKR札幌医療センター	北海道札幌市豊平区平岸一条6丁目3-40	北海道	81118221811	True	True	True	True	True	True	False	False	7	4	2	29	https://smc.kkr.or.jp/	141.366699	43.035812	consistent
+医療法人社団いちご会　美加レディースクリニック	北海道札幌市豊平区平岸三条13丁目5-21	北海道	81118337773	True	True	True	True	True	True	False	False	0	0	0	0	http://mikalady.jp	141.369598	43.026661	N/A
+札幌医科大学附属病院	北海道札幌市中央区南一条西１６丁目２９１	北海道	81116112111	True	True	True	True	True	True	True	True	0	0	0	0	https://web.sapmed.ac.jp/hospital/index.html	141.333206	43.055676	N/A
+足立産婦人科クリニック	北海道釧路市中園町8-1	北海道	81154257788	True	True	True	True	True	True	False	False	0	0	0	0		144.382477	43.005600	N/A
+医療法人社団のぞみ会　レディースクリニックぬまのはた	北海道苫小牧市北栄町2-27-7	北海道	81144530303	True	True	True	True	True	True	False	False	0	0	0	0		141.688110	42.674831	N/A
+医療法人社団神谷レディースクリニック	北海道札幌市中央区北三条西	北海道	81112312722	True	True	True	True	True	True	True	False	812	346	241	30	https://kamiyaclinic.com/	141.355011	43.065533	consistent
+社会医療法人社団カレスサッポロ　時計台記念病院	北海道札幌市中央区北一条東1丁目2-3	北海道	81112511221	True	True	True	True	False	True	False	False	6	1	1	17	https://www.tokeidaihosp.or.jp/	141.357193	43.063381	consistent
+医療法人金山生殖医療クリニック	北海道札幌市中央区北一条西４丁目１番１号２階	北海道	81112001122	True	True	True	True	True	True	False	False	0	0	0	0		141.351013	43.061642	N/A
+旭川医科大学病院	北海道旭川市緑が丘東二条１丁目１番１号	北海道	81166652111	True	True	True	True	False	True	True	True	0	0	0	0	https://www.asahikawa-med.ac.jp/hospital/	142.381897	43.730633	N/A
+国家公務員共済組合連合会　斗南病院	北海道札幌市中央区北四条西7丁目3-8	北海道	81112312121	True	True	True	True	True	True	True	True	0	0	0	0	https://www.tonan.kkr.or.jp/	141.345322	43.065147	N/A
+医療法人社団さっぽろARTクリニック	北海道札幌市北区北七条西４丁目１－２KDX札幌ビル４階	北海道	81117005880	True	True	True	True	True	True	False	False	0	0	0	0	https://sapporoart.jp/	141.349060	43.069229	N/A
+エフ.クリニック	青森県青森市浜田3-3-7	青森県	81177294103	True	True	True	True	True	True	False	False	236	102	81	34	https://www.efclinic.com	140.750275	40.798649	better
+弘前大学医学部附属病院	青森県弘前市大字本町５３	青森県	81172335111	True	True	True	True	True	True	True	False	0	0	0	0	https://www.med.hirosaki-u.ac.jp/hospital/index.html	140.465576	40.599808	N/A
+婦人科さかもとともみクリニック	青森県弘前市早稲田3丁目20-6	青森県	81172295080	True	True	True	True	True	True	False	False	0	0	0	0	http://www.sakamoto-t-clinic.jp/	140.511139	40.597958	N/A
+京野アートクリニック盛岡	岩手県盛岡市盛岡駅前通15-5 ワールドインGENプラザビル3階	岩手県	81196134124	True	True	True	True	True	True	False	False	0	0	0	0	https://ivf-kyono-morioka.jp/	141.136902	39.702915	N/A
+岩手医科大学附属内丸メディカルセンター	岩手県盛岡市内丸１９番１号	岩手県	81196136111	True	True	True	True	True	True	False	False	122	61	0	0	https://www.hosp.iwate-med.ac.jp/uchimaru/	141.151794	39.704502	worse
+仙台ソレイユ母子クリニック	宮城県仙台市太白区大野田4丁目31-3	宮城県	81222485001	True	True	True	True	False	True	False	False	216	106	0	0	https://sendai-soleil.jp/	140.875092	38.212322	worse
+気仙沼市立病院	宮城県気仙沼市赤岩杉ノ沢8-2	宮城県	81226227100	False	False	False	False	False	False	False	False	0	0	0	0		141.565384	38.887959	N/A
+スズキ記念病院	宮城県岩沼市里の杜３丁目５－５	宮城県	81223233111	True	True	True	True	True	True	False	False	157	68	52	33	https://www.suzuki-hospital.jp	140.878571	38.109020	consistent
+医療法人佑望会　たんぽぽレディースクリニックあすと長町	宮城県仙台市太白区郡山1-16-8	宮城県	81227387753	True	True	True	True	False	True	False	False	48	11	10	5	https://www.tanpopo-ladies.jp/	140.890335	38.226158	consistent
+京野アートクリニック仙台	宮城県仙台市青葉区本町1-1-1-3F	宮城県	81227228841	True	True	True	True	True	True	True	True	536	261	221	41	https://ivf-kyono.jp/	140.880280	38.263287	better
+医療法人正仁会　八乙女レディースクリニック	宮城県仙台市泉区上谷刈1-7-33	宮城県	81227726020	True	False	False	False	False	False	False	False	0	0	0	0		140.873886	38.316330	N/A
+わたなべ産婦人科　内科・小児科	宮城県大崎市松山千石字松山４４０	宮城県	81229553535	False	False	False	False	False	False	False	False	0	0	0	0	http://w-keyaki.clinic	141.049515	38.515076	N/A
+東北大学病院	宮城県仙台市青葉区星陵町１－１	宮城県	81227177000	True	True	True	True	True	True	False	False	33	14	9	28	https://www.hosp.tohoku.ac.jp/departments-3/d1301/doctor/#dp_menu	140.860947	38.272213	consistent
+はまざきウィメンズクリニック	宮城県仙台市宮城野区高砂1-1-15 関弐番館3階	宮城県	81223888321	False	False	False	False	False	False	False	False	0	0	0	0		140.972107	38.273930	N/A
+医療法人　かんとうクリニック	宮城県仙台市青葉区本町２丁目１７番２３号	宮城県	81223977762	False	False	False	False	False	False	True	True	0	0	0	0	http://kanto-clinic.jp	140.873398	38.265682	N/A
+メリーレディースクリニック	宮城県仙台市青葉区落合6-1-4	宮城県	81223910315	True	False	False	False	False	False	False	False	0	0	0	0	https://www.mary-lc.jp	140.784882	38.269413	N/A
+医療法人翔仁会仙台ARTクリニック	宮城県仙台市宮城野区名掛丁206-13	宮城県	81227918851	True	True	True	True	True	True	True	True	521	206	65	12	http://sendai-art-cl.jp	140.885590	38.262531	worse
+大曲母子医院	秋田県大仙市大曲福住町８－１８	秋田県	81187632288	True	True	True	False	True	True	False	False	0	0	0	0		140.475098	39.465889	N/A
+ゆめクリニック	山形県米沢市東	山形県	81238261537	True	True	True	True	True	True	False	False	0	0	0	0		140.127655	37.902912	N/A
+山形大学医学部附属病院	山形県山形市飯田西２丁目２－２	山形県	81236331122	True	True	True	True	True	True	True	True	0	0	0	0	https://www1.id.yamagata-u.ac.jp/MIDINFO/	140.315613	38.213795	N/A
+山形大学医学部附属病院	山形県山形市飯田西２丁目２－２	山形県	81236331122	True	True	True	True	True	True	False	False	91	38	27	30		140.315613	38.213795	consistent
+アートクリニック産婦人科	福島県福島市栄町6-1エスタビル１２階	福島県	81245231132	True	True	True	True	True	True	False	False	122	46	31	25	http://art-clinic.byoinnavi.jp/pc/	140.461273	37.754051	consistent
+いちかわクリニック	福島県福島市南矢野目字鼓田6-1	福島県	81245540303	True	True	True	True	True	True	False	False	0	0	0	0		140.467255	37.785244	N/A
+（医）ひさこファミリークリニック	福島県郡山市中ノ目1丁目26-2	福島県	81249524415	True	True	True	True	True	True	False	False	0	0	0	0		140.333923	37.420391	N/A
+一般財団法人温知会　会津中央病院	福島県会津若松市鶴賀町１－１	福島県	81242251515	True	True	True	False	True	True	False	False	0	0	0	0	https://www.onchikai.jp/	139.944778	37.521210	N/A
+医療法人　あべウイメンズクリニック	福島県郡山市富久山町久保田字伊賀河原6-1	福島県	81249234188	True	True	True	True	True	True	False	False	38	14	11	3	http://www.abe-wclinic.jp	140.371948	37.413582	consistent
+医療法人 いわき婦人科	福島県いわき市内郷綴町大木下3-2	福島県	81246272885	True	True	True	True	True	True	False	False	154	65	42	27		140.857407	37.035275	consistent
+公立大学法人福島県立医科大学附属病院	福島県福島市光が丘１	福島県	81245471111	True	True	True	True	True	True	True	True	0	0	0	0		140.471603	37.689926	N/A
+医療法人小塙医院　つくばARTクリニック	茨城県つくば市竹園1-6-1　つくば三井ビル4階	茨城県	81298636111	True	True	True	True	True	True	False	False	0	0	0	0	https://www.tsukuba-art.jp/	140.113144	36.079533	N/A
+小塙医院	茨城県小美玉市田木谷169-3	茨城県	81299583185	True	True	True	True	True	True	False	False	0	0	0	0	https://www.ivf-ibaraki.or.jp/	140.350510	36.169632	N/A
+筑波大学附属病院	茨城県つくば市天久保２－１－１	茨城県	81298537668	True	True	True	True	True	True	True	True	0	0	0	0		140.102020	36.093224	N/A
+医療法人いがらしクリニック	茨城県龍ケ崎市栄町4659-3	茨城県	81297620936	True	True	True	True	True	True	False	False	0	0	0	0		140.182266	35.911594	N/A
+医療法人藤貴会中央泌尿器科クリニック	茨城県水戸市青柳町4052-6	茨城県	81293025243	False	False	False	False	False	False	True	False	0	0	0	0	http://www.mito-med.or.jp/map_center_21chuuou.html	140.478546	36.394073	N/A
+遠藤産婦人科医院	茨城県筑西市八丁台63	茨城県	81296201000	True	True	True	True	True	True	False	False	0	0	0	0		139.973480	36.324883	N/A
+獨協医科大学病院	栃木県下都賀郡壬生町大字北小林８８０	栃木県	81282861111	True	True	True	True	True	True	False	False	0	0	0	0	https://www.dokkyomed.ac.jp/hosp-m/#gsc.tab=0	139.825363	36.472305	N/A
+自治医科大学附属病院	栃木県下野市薬師寺３３１１－１	栃木県	81285442111	True	True	True	True	True	True	True	True	0	0	0	0		139.858521	36.403400	N/A
+那須赤十字病院	栃木県大田原市中田原１０８１番地４（大田原郵便局私書箱第１５号）	栃木県	81287231122	True	True	True	True	True	True	False	False	73	13	5	7	https://www.nasu.jrc.or.jp	140.036987	36.881420	worse
+城山公園すずきクリニック	栃木県佐野市久保町２６３	栃木県	81283220195	True	True	True	True	True	True	False	False	82	29	0	0	https://suzuki-obgy.com/	139.582596	36.318325	worse
+医療法人社団平成会　平尾産婦人科医院	栃木県宇都宮市鶴田3-1-4	栃木県	81286485222	True	True	True	True	True	True	False	False	0	0	0	40	http://www.hirao.jp	139.849442	36.563477	N/A
+ときざわレディスクリニック	群馬県太田市小舞木町　256	群馬県	81276602580	True	True	True	True	True	True	False	False	345	139	98	28	http://tokizawa.jp	139.385727	36.283226	consistent
+群馬大学医学部附属病院	群馬県前橋市昭和町３丁目３９－２２	群馬県	81272207111	True	True	True	True	True	True	True	True	50	12	4	8		139.061523	36.406128	worse
+ときざわレディスクリニック	群馬県太田市小舞木町256	群馬県	81276602580	True	True	True	True	True	True	False	False	0	0	0	0	http://tokizaw.jp	139.385727	36.283226	N/A
+医療法人愛弘会　横田マタニティーホスピタル	群馬県前橋市下小出町1-5-22	群馬県	81272344135	True	True	True	True	True	True	True	True	116	46	36	31	https://repro.yokotamaternity.com	139.067459	36.407722	consistent
+いまいウイメンズクリニック	群馬県前橋市東片貝町875	群馬県	81272211000	True	True	True	True	True	True	False	False	0	0	0	0	http://imai-womens.com/	139.102737	36.382763	N/A
+医療法人　神岡産婦人科医院　ヒルズレディースクリニック	群馬県前橋市総社町総社3607	群馬県	81272534152	True	True	True	True	True	True	False	False	0	0	0	0	https://www.kamioka.or.jp/	139.030838	36.402599	N/A
+大和たまごクリニック	埼玉県さいたま市岩槻区岩槻5202	埼玉県	81487578100	True	True	True	True	True	True	False	False	0	0	0	0	https://www.daiwa-tamago.com	139.686813	35.959347	N/A
+永井マザーズホスピタル	埼玉県三郷市上彦名607-1	埼玉県	81489591311	True	True	True	True	True	True	False	False	90	43	32	36	https://www.nagai-cl.com	139.862274	35.851929	consistent
+ソフィア祐子レディースクリニック	埼玉県川口市西川口1-26-4　上新建業ビル3F	埼玉県	81482537877	True	True	True	True	True	True	False	False	37	4	3	8	https://www.ivfysatolc.jp/	139.703644	35.814137	worse
+獨協医科大学埼玉医療センター	埼玉県越谷市南越谷２丁目１－５０	埼玉県	81489652028	True	True	True	True	True	True	True	True	234	90	66	28		139.789307	35.878487	consistent
+医療法人夢乃樹会ウィメンズクリニックふじみ野	埼玉県富士見市ふじみ野西1-17-3 ハピネスビルふじみ野2F・3F	埼玉県	81492938210	True	True	True	True	True	True	False	False	511	236	172	34	http://www.wcf-reproduction.com/	139.520065	35.859352	better
+埼玉医科大学病院	埼玉県入間郡毛呂山町大字毛呂本郷３８	埼玉県	81492761111	True	True	True	True	True	True	False	False	78	11	10	13	https://www.saitama-med.ac.jp/hospital/division/33gynecology/index.html	139.304062	35.936001	worse
+さくらレディースクリニック	埼玉県所沢市くすのき台3-1-1 角三上ビル2F	埼玉県	81429920371	True	True	True	True	True	True	False	False	131	49	37	28	https://www.sakura-lc.jp/	139.476593	35.786949	consistent
+スピカレディースクリニック	埼玉県加須市南篠崎2252	埼玉県	81480657750	True	True	True	False	True	True	False	False	0	0	0	0		139.628250	36.121265	N/A
+医療法人慈桜会瀬戸病院	埼玉県所沢市金山町8-6	埼玉県	81429220221	True	True	True	True	True	True	False	False	210	70	55	26	https://www.seto-hospital.or.jp/	139.460510	35.789352	consistent
+埼玉医科大学総合医療センター	埼玉県川越市大字鴨田１９８１	埼玉県	81492283681	True	True	True	True	True	True	False	False	0	0	0	0	http://www.kawagoe.saitama-med.ac.jp	139.519485	35.934853	N/A
+かしわざき産婦人科	埼玉県さいたま市大宮区上小町604-4	埼玉県	81486418077	True	True	True	True	True	True	False	False	0	0	0	0		139.610611	35.901371	N/A
+あらかきウィメンズクリニック	埼玉県さいたま市南区沼影	埼玉県	81488381107	True	True	True	True	True	True	False	False	0	0	0	0	http://arakaki1107.com	139.643814	35.842346	N/A
+医療法人慈晃会秋山レディースクリニック	埼玉県さいたま市大宮区大成町3-542	埼玉県	81486630005	True	True	True	True	True	True	False	False	0	0	0	0		139.612671	35.919094	N/A
+おおのたウィメンズクリニック 埼玉大宮	埼玉県さいたま市大宮区大門町2-118 大宮門街WEST3階	埼玉県	81487832218	True	True	True	True	True	True	False	False	0	0	0	0	https://www.ont-womens.com	139.627335	35.907307	N/A
+獨協医科大学埼玉医療センター	埼玉県越谷市南越谷２丁目１－５０	埼玉県	81489652028	True	True	True	True	True	True	True	True	234	90	66	28		139.789307	35.878487	consistent
+西船橋こやまウィメンズクリニック	千葉県船橋市印内町638-1	千葉県	81474952050	True	True	True	True	True	True	False	False	0	0	0	0	https://koyama-womens.com	139.958664	35.705112	N/A
+大川レディースクリニック	千葉県松戸市馬橋1902	千葉県	81473413011	True	True	True	True	True	True	False	False	0	0	0	0	https://www.okawa-hospital.jp	139.920059	35.811756	N/A
+重城産婦人科小児科	千葉県木更津市万石358	千葉県	81438413700	True	True	True	False	True	True	False	False	0	0	0	0		139.932358	35.416447	N/A
+医療法人社団春音会さくらウィメンズクリニック	千葉県浦安市北栄1-11-20YOSHIDAビル３階	千葉県	81477007077	True	True	True	True	True	True	False	False	419	179	127	30		139.893219	35.666950	consistent
+津田沼IVFクリニック	千葉県船橋市前原西2-17-8	千葉県	81474553111	True	True	True	True	True	True	False	False	504	260	0	0	https://www.tsudanuma-ivf-clinic.jp/	140.018173	35.692879	worse
+くぼのやIVFクリニック	千葉県柏市柏2-5-14	千葉県	81471362601	True	True	True	True	True	True	False	False	0	0	0	0	https://www.kubonoyaivf.jp/about/	139.973953	35.861206	N/A
+医療法人社団光珠会　おおたかの森ARTクリニック	千葉県流山市おおたかの森西1-3-5 K.Mおおたかの森2F	千葉県	81471701541	True	True	True	True	True	True	False	False	0	0	0	0	https://otaka-art.clinic	139.923401	35.872082	N/A
+日吉台レディースクニック	千葉県富里市日吉台2-9-6	千葉県	81476921103	True	True	True	True	True	True	False	False	0	0	0	0		140.321198	35.772297	N/A
+医療法人社団ファーティル　みやけウィメンズクリニック	千葉県千葉市緑区おゆみ野中央1-18-5	千葉県	81432933500	True	True	True	True	True	True	False	False	0	0	0	0	https://mwclin.com/	140.159851	35.560303	N/A
+本八幡レディースクリニック	千葉県市川市八幡3-3-3-B1F	千葉県	81473227755	True	True	True	True	False	True	False	False	0	0	0	0		139.927185	35.723213	N/A
+中野レディースクリニック	千葉県柏市柏2-10-11-1F	千葉県	81471620345	True	True	True	True	True	True	False	False	0	0	0	0		139.974014	35.862011	N/A
+東京歯科大学市川総合病院	千葉県市川市菅野５丁目１１－１３	千葉県	81473220151	True	True	True	True	True	True	True	True	171	29	21	13	https://www.tdc.ac.jp/igh/tabid/734/Default.aspx	139.921616	35.732296	worse
+医療法人社団　愛慈会　松本レディースリプロダクションオフィス	東京都豊島区東池袋1-41-7池袋東口ビル7F	東京都	81369072555	True	True	True	True	True	True	True	True	549	289	169	31	http://matsumoto-ladies.com	139.712708	35.731400	better
+医療法人社団ローズレディースクリニック	東京都世田谷区等々力2-3-18	東京都	81337030116	True	True	True	True	True	True	False	True	0	0	0	0	http://www.roseladiesclinic.jp	139.651215	35.604301	N/A
+秋葉原ART Clinic	東京都台東区上野1-1-12プライム末広町ビル３F	東京都	81358076888	True	True	True	True	True	True	False	False	0	0	0	0		139.771790	35.705238	N/A
+表参道ARTクリニック	東京都港区北青山3-11-7　Aoビル　11階	東京都	81364335461	True	True	True	True	True	True	False	False	0	0	0	0	https://www.omotesando-art.jp/	139.710754	35.663765	N/A
+銀座こうのとりレディースクリニック	東京都中央区銀座1-3-9 マルイト銀座ビル7階	東京都	81351592077	True	True	True	True	True	True	False	False	0	0	0	0	http://ginzakounotori.com	139.766205	35.675018	N/A
+正裕会　井上レディースクリニック	東京都立川市富士見町1-26-9	東京都	81425262393	True	True	True	True	True	True	False	False	94	48	0	0	http://info@inoue-ladies.jp	139.394531	35.699570	worse
+東京慈恵会医科大学附属病院	東京都港区西新橋３丁目１９－１８	東京都	81334331111	True	True	True	True	True	True	False	False	198	78	52	26	https://www.hosp.jikei.ac.jp/	139.751434	35.663685	consistent
+医療法人社団春音会さくら・はるねクリニック銀座	東京都中央区銀座1-5-8 ギンザウィローアベニュー6F	東京都	81352506850	True	True	True	True	True	True	False	False	47	19	13	28	http://sakura-ginza.jp	139.767181	35.674572	consistent
+医療法人社団　愛慈会　松本レディースクリニック	東京都豊島区東池袋2-60-3グレイスロータリービル１F	東京都	81359585633	True	True	True	True	True	True	True	False	549	289	169	31	http://matsumoto-ladies.com	139.717392	35.733250	better
+東京衛生アドベンチスト病院附属めぐみクリニック	東京都杉並区天沼3-5-2 公生堂ビル３階・B1階	東京都	81353356401	True	True	True	True	True	True	False	False	109	58	41	37	https://www.megumi-cl.info/	139.619293	35.705879	better
+ウイメンズクリニック大泉学園	東京都練馬区東大泉1-27-19アラウダ大泉ビル	東京都	81359351010	True	True	True	True	True	True	False	False	0	0	0	0		139.587692	35.750210	N/A
+東邦大学医療センター大森病院	東京都大田区大森西６丁目１１－１	東京都	81337624151	True	True	True	True	True	True	True	True	0	0	0	0		139.723694	35.569328	N/A
+医療法人社団ひとみ会臼井医院	東京都足立区東和2-12-18臼井医院	東京都	81336051677	True	True	True	True	True	True	False	False	276	96	72	26	https://usui-clinic.com	139.841782	35.768311	consistent
+医療法人社団永遠幸Natural ART Clinic 日本橋	東京都中央区日本橋東京日本橋タワー８階	東京都	81362625757	True	True	True	True	True	True	True	True	0	0	0	0	https://naturalart.or.jp/	139.775345	35.682903	N/A
+EASE女性のクリニック	東京都中央区入船1-1-24   4~6F	東京都	81332061112	True	False	False	False	False	False	False	False	0	0	0	0	https://ease-clinic.jp	139.777100	35.673393	N/A
+幸町IVFクリニック	東京都府中市府中町1-18-17　コンテント府中1階、2階	東京都	81423650341	True	True	True	True	True	True	False	False	188	39	30	25	https://www.saiwaicho.com	139.481018	35.674416	worse
+国立国際医療研究センター病院	東京都新宿区戸山１丁目２１－１	東京都	81332027181	True	True	True	True	True	True	False	False	132	45	37	28	https://www.ncgm.go.jp	139.716217	35.703987	consistent
+医療法人オーク会　オーク銀座レディースクリニック	東京都中央区銀座2-6-12 Okura House 7階	東京都	81120009345	True	True	True	True	True	True	True	True	0	0	0	0	https://www.oakclinic-group.com/ginza_ladys/	139.766586	35.673229	N/A
+杉山産婦人科新宿	東京都新宿区西新宿1-19-6　山手新宿ビル1Fから4F	東京都	81353813000	True	True	True	True	True	True	True	True	3944	1623	0	0	https://www.sugiyama.or.jp/shinjuku/	139.697189	35.688122	worse
+杉山産婦人科新宿	東京都新宿区西新宿1-19-6　山手新宿ビル	東京都	81353813000	True	True	True	True	True	True	True	True	0	0	0	0	https://www.sugiyama.or.jp/shinjuku/	139.697189	35.688122	N/A
+六本木レディースクリニック	東京都港区六本木7-18-18 住友不動産六本木通ビル6階	東京都	815058655330	True	True	True	True	True	True	False	False	0	0	0	0	https://www.sbc-ladies.com/	139.728683	35.662125	N/A
+京野アートクリニック高輪	東京都港区高輪3-13-1 高輪コート５F	東京都	81364084124	True	True	True	True	True	True	True	True	0	0	0	0	https://ivf-kyono.com/	139.733948	35.630711	N/A
+医療法人社団真高会 両角レディースクリニック	東京都中央区銀座2-5-11V88ビルディング3・4F	東京都	81351591101	True	True	True	True	True	True	False	False	0	0	0	0	https://morozumi-lc.com/	139.766373	35.673378	N/A
+Shinjuku ART Clinic	東京都新宿区西新宿住友不動産新宿オークタワー３階	東京都	81353245577	True	True	True	True	True	True	False	False	251	127	103	41	https://www.shinjukuart.com	139.697495	35.690384	better
+医療法人社団永遠幸　新橋夢クリニック	東京都港区新橋2-5-1 EXCEL新橋 3F～7F	東京都	81335932121	True	True	True	True	True	True	True	True	658	358	278	43	https://www.yumeclinic.net	139.756058	35.667744	better
+torch clinic	東京都渋谷区恵比寿4-3-14 恵比寿SSビル 8階	東京都	81364477910	True	True	True	True	True	True	False	False	0	0	0	0	https://torch.clinic/	139.711212	35.645794	N/A
+帝京大学医学部附属病院	東京都板橋区加賀２丁目１１－１	東京都	81339641211	True	True	True	True	True	True	True	True	0	0	0	0		139.714478	35.759392	N/A
+医療法人社団輝翠会　峯レディースクリニック	東京都目黒区自由が丘2-10-4ミルシェ自由が丘4階	東京都	81357318161	True	True	True	True	True	True	False	False	0	0	0	0	https://www.mine-lc.jp/	139.668213	35.608253	N/A
+東京医科大学病院	東京都新宿区西新宿6-7-1	東京都	81333426111	True	True	True	True	True	True	False	False	0	0	0	0	https://hospinfo.tokyo-med.ac.jp/	139.693008	35.694145	N/A
+五の橋レディスクリニック	東京都江東区亀戸6-26-5 日土地亀戸ビル８階	東京都	81358362600	True	True	True	True	True	True	False	False	149	60	42	28		139.826355	35.696434	consistent
+芝公園かみやまクリニック	東京都港区芝2-9-10 ダイユウビル１階	東京都	81364145641	True	True	True	True	True	True	False	False	0	0	0	0	http://www.s-kamiyamaclinic.com/	139.751419	35.651993	N/A
+武蔵境いわもと婦人科クリニック	東京都武蔵野市境南町3-14-6　山桃ビル2F	東京都	81422313737	True	True	True	True	True	True	False	False	0	0	0	0		139.541306	35.698975	N/A
+千絵レディースクリニック代々木上原	東京都渋谷区西原	東京都	81954652277	True	False	False	False	False	False	False	False	0	0	0	0	http://chielc.com	139.681000	35.675510	N/A
+田園都市レディースクリニック二子玉川	東京都世田谷区玉川2-24-24　セゾン玉川５階	東京都	81337072455	True	True	True	True	True	True	False	False	74	33	20	27	https://www.denentoshi-lady.com/futagotamagawa/	139.628204	35.613747	consistent
+社会福祉法人　恩賜財団　済生会支部 神奈川県済生会横浜市東部病院	神奈川県横浜市鶴見区下末吉３丁目６－１	神奈川県	81455763000	True	True	True	True	True	True	True	False	53	20	13	25	https://www.tobu.saiseikai.or.jp/	139.674911	35.523926	consistent
+山下湘南夢クリニック	神奈川県藤沢市鵠沼石上1-2-10KENEDIX藤沢4階	神奈川県	81466555011	True	True	True	True	True	True	True	True	352	164	109	31	https://ysyc-yumeclinic.com	139.487823	35.335789	consistent
+産婦人科クリニックさくら	神奈川県横浜市青葉区新石川2-9-3	神奈川県	81459119936	True	True	True	True	True	True	False	False	0	0	0	0	https://www.cl-sacra.com	139.559158	35.574654	N/A
+医療法人社団福順会　福田ウイメンズクリニック	神奈川県横浜市戸塚区品濃町549-2三宅ビル7F	神奈川県	81458255525	True	True	True	True	True	True	False	False	162	71	48	30	https://fukuda-wclinic.com/	139.558701	35.431164	consistent
+綱島ゆめみ産婦人科	神奈川県横浜市港北区綱島西3-2-23	神奈川県	81455431103	True	True	True	True	False	True	False	False	0	0	0	0	https://www.yumemi-sanfujinka.com	139.631210	35.537548	N/A
+医療法人愛育会　愛育レディーズクリニック	神奈川県大和市南林間2-13-3	神奈川県	81462773316	True	True	True	True	True	True	False	False	68	28	22	32	https://www.aiikucl.jp/	139.445526	35.494949	consistent
+北里大学病院	神奈川県相模原市南区北里１丁目１５番１号	神奈川県	81427788111	True	True	True	True	True	True	False	False	0	0	0	0		139.393845	35.538513	N/A
+医療法人社団慶秀会 神奈川ARTクリニック	神奈川県相模原市南区相模大野6-19-29	神奈川県	81427013855	True	True	True	True	True	True	False	False	608	350	0	0	https://www.kanagawa-art.jp/	139.434769	35.529587	worse
+田園都市レディースクリニック	神奈川県横浜市青葉区あざみ野1-5-1	神奈川県	81459055524	True	True	True	True	True	True	True	False	1169	558	413	35	https://www.denentoshi-lady.com/	139.554352	35.570305	better
+産婦人科クリニックさくら	神奈川県横浜市青葉区新石川2-9-3	神奈川県	81459119936	True	True	True	True	True	True	False	False	0	0	0	0	https://www.cl-sacra.com	139.559158	35.574654	N/A
+コシ産婦人科医院	神奈川県横浜市神奈川区白楽71-8	神奈川県	81454322525	True	True	True	True	True	True	False	False	0	0	0	0	http://www.koshi-sanfujinka.com	139.629791	35.486107	N/A
+みなとみらい夢クリニック	神奈川県横浜市西区みなとみらい3-6-3MMパークビル２階・３階	神奈川県	81452283131	True	True	True	True	True	True	True	True	170	62	48	28	https://mm-yumeclinic.com	139.631989	35.458584	consistent
+CMポートクリニック	神奈川県横浜市都筑区茅ケ崎中央50-17 B1F	神奈川県	81459483761	True	True	True	True	True	True	False	False	162	50	40	25	http://cm-port@cm-port.com	139.575226	35.546001	consistent
+東海大学医学部付属病院	神奈川県伊勢原市下糟屋１４３	神奈川県	81463931121	True	True	True	True	True	True	False	False	0	0	0	0		139.313675	35.406673	N/A
+アモルクリニック	神奈川県横浜市港北区新横浜3-20-3-701	神奈川県	81454751000	True	True	True	True	True	True	False	False	0	0	0	0	https://amor-clinic.jp/	139.616516	35.511406	N/A
+聖マリアンナ医科大学	神奈川県川崎市宮前区菅生２丁目１６－１	神奈川県	81449778111	True	True	True	True	True	True	False	False	0	0	0	0		139.547073	35.599560	N/A
+医療法人社団三成会　新百合ヶ丘総合病院	神奈川県川崎市麻生区古沢	神奈川県	81443229991	True	True	True	True	True	True	False	False	184	62	42	23	https://www.shinyuri-hospital.com	139.496689	35.603786	consistent
+湘南茅ヶ崎ARTレディースクリニック	神奈川県茅ヶ崎市浜見平10-2 BRANCH3 2階	神奈川県	81467815726	True	True	True	True	False	True	False	False	0	0	0	0	https://chigasaki-art-lc.jp/	139.387695	35.323002	N/A
+立川メディカルセンター立川綜合病院	新潟県長岡市旭岡１丁目２４番地	新潟県	81258333111	True	True	True	True	True	True	True	True	0	0	0	0	https://www.tatikawa.or.jp/tatikawa/	138.858337	37.422428	N/A
+医療法人社団　恵和会　ミアグレースクリニック新潟	新潟県新潟市中央区東万代町9-38 ロイヤルパークスER万代1階	新潟県	81252461122	True	True	True	True	True	True	True	True	0	0	0	0	https://mia-grace-niigata.jp/	139.062622	37.917324	N/A
+立川メディカルセンター立川綜合病院	新潟県長岡市旭岡１丁目２４番地	新潟県	81258333111	True	True	True	True	True	True	True	True	0	0	0	0	https://www.tatikawa.or.jp	138.858337	37.422428	N/A
+医療法人社団フロール菅谷ウイメンズクリニック	新潟県上越市新光町	新潟県	81255467660	True	True	True	True	True	True	False	False	0	0	0	0	https://www.sugaya-women.jp	138.236954	37.152447	N/A
+医療法人社団　関塚医院	新潟県新発田市中田町2-17-15	新潟県	81254261405	True	True	True	True	False	True	False	False	0	0	0	0		139.328247	37.967873	N/A
+新津産科婦人科クリニック	新潟県新潟市江南区横越中央7丁目1番7号	新潟県	81253844103	True	True	True	True	True	True	False	False	0	0	0	0	https://www.sankafujinka.jp	139.146011	37.853565	N/A
+医療法人社団　ロイヤルハートクリニック	新潟県新潟市中央区天神尾１丁目17番5号	新潟県	81252441122	True	True	True	True	True	True	False	False	53	17	12	23	https://www.royal-heart-clinic.com/index1.html	139.054916	37.907864	consistent
+あいARTクリニック	富山県高岡市下伏間江	富山県	81766273311	True	True	True	True	True	True	False	False	0	0	0	0		137.023911	36.722866	N/A
+富山県立中央病院	富山県富山市西長江２丁目２－７８	富山県	81764241531	True	True	True	True	True	True	False	False	0	0	0	0	http://www.tch.pref.toyama.jp	137.236526	36.692074	N/A
+小嶋ウィメンズクリニック	富山県富山市五福521-1	富山県	81764321788	True	True	True	True	True	True	True	True	0	0	0	0	https://www.kojima-womensclinic.com/	137.192337	36.700943	N/A
+富山県済生会富山病院	富山県富山市楠木３３－１	富山県	81764371111	False	False	False	False	False	False	True	True	0	0	0	0	https://www.saiseikai-toyama.jp/	137.255035	36.737865	N/A
+女性クリニックWe富山	富山県富山市根塚町1-5-1	富山県	81764935580	True	True	True	True	True	True	False	False	122	16	14	12	https://we-toyama.jp/	137.204987	36.674450	worse
+医療法人社団康仁会　金沢たまごクリニック	石川県金沢市諸江町中丁327番1	石川県	81762373300	False	True	True	True	True	True	False	False	356	121	85	24		136.644104	36.598358	consistent
+鈴木レディスホスピタル	石川県金沢市寺町2-8-36	石川県	81762423155	True	True	True	True	True	True	True	True	0	0	0	0	https://www.suzukilh.com	136.656204	36.548653	N/A
+金沢市立病院	石川県金沢市平和町3丁目7番3号	石川県	81762452600	False	False	False	False	False	False	False	False	0	0	0	0		136.663727	36.541588	N/A
+本多レディースクリニック	福井県福井市宝永4丁目2番18号	福井県	81776246800	True	True	True	True	True	True	False	False	0	0	0	0	https://www.honda-lc.or.jp/	136.219666	36.067360	N/A
+福井大学医学部附属病院	福井県吉田郡永平寺町松岡下合月２３－３	福井県	81776613111	True	True	True	True	True	True	True	True	37	10	4	11	https://www.hosp.u-fukui.ac.jp/	136.292068	36.109547	worse
+医療法人磐長会このはな産婦人科	山梨県甲斐市西八幡1950-1	山梨県	81552255500	True	True	True	True	True	True	False	False	0	0	0	0	https://www.konohana-obgy.com/guide.html	138.522903	35.638847	N/A
+甲府昭和婦人クリニック	山梨県中巨摩郡昭和町清水新居1215-1	山梨県	81552265566	True	True	True	True	True	True	False	False	0	0	0	0	http://yoshida-fujin-clinic.com	138.548981	35.642872	N/A
+国立大学法人山梨大学医学部附属病院	山梨県中央市下河東１１１０	山梨県	81552731111	True	True	True	True	True	True	True	True	245	93	71	29	https://www.hosp.yamanashi.ac.jp/	138.538177	35.609200	consistent
+医療法人佐久平リプロダクションセンター　佐久平エンゼルクリニック	長野県佐久市長土呂１２１０−１	長野県	81267675816	True	True	True	True	True	True	False	False	457	175	129	28	https://www.sakudaira-angel-clinic.jp/	138.461136	36.284389	consistent
+佐久市立国保浅間総合病院	長野県佐久市岩村田１８６２－１	長野県	81267672295	True	True	True	True	True	True	False	False	76	24	23	30		138.469162	36.270580	consistent
+JA長野厚生連　南長野医療センター篠ノ井総合病院	長野県長野市篠ノ井会666番地1	長野県	81262922261	True	True	True	True	True	True	True	True	84	27	18	21	https://shinonoi-ghp.jp/	138.149292	36.575462	consistent
+医療法人　未来ART　OKAレディースクリニック	長野県長野市下氷鉋1-14-1	長野県	81262850123	True	True	True	True	False	True	False	False	0	0	0	0		138.175827	36.611786	N/A
+医療法人登誠会諏訪マタニティークリニック	長野県諏訪郡下諏訪町１１２番地１３	長野県	81266286100	True	True	True	True	True	True	True	False	301	156	124	41	http://temporary.e-smc.jp/info/	138.079254	36.078316	better
+長野赤十字病院	長野県長野市若里５丁目２２－１	長野県	81262264131	True	True	True	True	True	True	True	True	0	0	0	0	http://www.nagano-med.jrc.or.jp	138.189758	36.628452	N/A
+信州大学医学部附属病院	長野県松本市旭３丁目１－１	長野県	81263354600	True	True	True	True	True	True	False	False	0	0	0	0	https://wwwhp.md.shinshu-u.ac.jp/	137.978943	36.249428	N/A
+わかばレディス＆マタニティ　クリニック	長野県松本市浅間温泉1-24-5	長野県	81263450103	True	True	True	True	True	True	False	False	58	25	16	28	https://www.wakaba-lc.jp	137.984894	36.260216	consistent
+吉澤産婦人科医院	長野県長野市七瀬中町９６	長野県	81262268475	True	True	True	True	True	True	False	False	0	0	0	0	http://www.yszw.com/	138.193649	36.643436	N/A
+長野市民病院	長野県長野市大字富竹１３３３番地１	長野県	81262951199	True	True	True	True	True	True	False	False	0	0	0	0	https://www.hospital.nagano.nagano.jp	138.254654	36.669018	N/A
+西澤産婦人科クリニック	長野県飯田市本町4-5	長野県	81265243800	True	True	True	True	False	True	False	False	0	0	0	0		137.821564	35.516972	N/A
+ぎなんレディースクリニック	岐阜県羽島郡岐南町八剣北5-81-1	岐阜県	81582015760	True	True	True	True	True	True	False	False	0	0	0	0	https://ginan-lc.com	136.782867	35.394199	N/A
+医療法人社団　古田産科婦人科クリニック	岐阜県岐阜市金町7-3	岐阜県	81582652395	True	True	True	True	True	True	False	False	21	5	3	14		136.757019	35.413013	consistent
+おおのレディースクリニック	岐阜県岐阜市光町43	岐阜県	81582330201	True	True	True	True	True	True	False	False	698	238	183	26	https://ohno-lc.com	136.745819	35.433571	consistent
+岐阜県厚生農業協同組合連合会　岐阜・西濃医療センター　西濃厚生病院	岐阜県揖斐郡大野町下磯293番地1	岐阜県	81585361100	False	False	False	False	False	False	True	True	0	0	0	0		136.627991	35.432137	N/A
+岐阜大学医学部附属病院	岐阜県岐阜市柳戸１－１	岐阜県	81582306000	True	True	True	True	False	True	False	False	0	0	0	0		136.737625	35.465530	N/A
+クリニックママ	岐阜県大垣市今宿3-34-1	岐阜県	81584735111	True	True	True	True	True	True	False	False	154	83	63	76	http://climama.jp	136.636612	35.365562	better
+岩端医院	静岡県沼津市大手町3-2-19	静岡県	81559621368	True	True	True	True	True	True	False	True	0	0	0	0	https://www.iwahata.jp/	138.860458	35.101620	N/A
+社会福祉法人　聖隷福祉事業団　総合病院　聖隷浜松病院	静岡県浜松市中区住吉２丁目１２－１２	静岡県	81534742222	True	True	True	True	True	True	True	True	88	31	0	0	https://www.seirei.or.jp/hamamatsu/	137.725006	34.730160	worse
+静岡赤十字病院	静岡県静岡市葵区追手町8番2号	静岡県	81542544311	True	True	True	True	True	True	False	False	0	0	0	0		138.381348	34.976254	N/A
+富士市立中央病院	静岡県富士市高島町５０	静岡県	81545521131	True	True	True	True	True	True	False	False	0	0	0	0		138.670807	35.158253	N/A
+菊池レディースクリニック	静岡県静岡市葵区追手町2-12静岡安藤ハザマビル９階	静岡県	81542724124	True	True	True	True	True	True	False	False	107	61	45	42	https://kikuchi-lc.com/	138.385635	34.975140	better
+長谷川産婦人科医院	静岡県富士市吉原5-3-18	静岡県	81545537575	True	True	True	True	True	True	False	False	0	0	0	0	https://hasegawa-sanfujinka.com	138.680038	35.165714	N/A
+焼津市立総合病院	静岡県焼津市道原１０００番地	静岡県	81546233111	True	True	True	True	True	True	True	True	0	0	0	0	http://www.hospital.yaizu.shizuoka.jp/	138.306061	34.837288	N/A
+俵IVFクリニック	静岡県静岡市駿河区泉町2-20	静岡県	81542882882	True	True	True	True	True	True	True	True	0	0	0	0	https://www.tawara-ivf.jp/	138.386902	34.968765	N/A
+沼津市立病院	静岡県沼津市東椎路字春ノ木550番地	静岡県	81559245100	True	True	True	False	True	True	False	False	0	0	0	0		138.835129	35.119942	N/A
+ロイヤルベルクリニック	愛知県名古屋市緑区水広1-1715	愛知県	81528796673	True	True	True	True	True	True	False	False	174	79	67	39	https://www.royalbell.jp/art/	136.993851	35.082016	better
+日本赤十字社愛知医療センター名古屋第一病院	愛知県名古屋市中村区道下町３丁目３５	愛知県	81524815111	True	True	True	True	True	True	False	False	0	0	0	0		136.862427	35.171490	N/A
+平針北クリニック	愛知県日進市赤池町屋下306-2	愛知県	81528031103	True	True	True	False	True	False	False	False	0	0	0	0	http://www.hirabarikita-clinic.com	137.008011	35.125515	N/A
+産科婦人科種村ウィメンズクリニック	愛知県名古屋市天白区野並1-265	愛知県	81527996121	False	False	False	False	False	False	False	False	0	0	0	0		136.958893	35.107563	N/A
+森脇レディースクリニック	愛知県みよし市三好町小坂75　アーバンシティ三好2階	愛知県	81561335512	True	True	True	True	True	True	False	False	0	0	0	0	http://art-moriwaki.com/	137.075760	35.089851	N/A
+つつじが丘ウイメンズクリニック	愛知県豊橋市つつじが丘2-3-10	愛知県	81532665550	True	True	True	True	True	True	False	False	323	0	0	0	http://t-w-c.jp	137.399078	34.748615	worse
+はちウィメンズクリニック安城	愛知県安城市箕輪町唐生３７番地	愛知県	81566714800	True	False	False	False	False	False	False	False	0	0	0	0	http://www.hachi-clinic.jp/	137.057114	34.959595	N/A
+おかだウィメンズクリニック	愛知県名古屋市中区正木4-8-7れんが橋ビル3階	愛知県	81526830018	True	True	True	True	True	True	False	False	189	87	63	33	https://okada-w.com	136.898865	35.143017	better
+医療法人成田育成会　セントソフィアクリニック	愛知県名古屋市中村区名駅1-1-4ＪＲセントラルタワーズ１９階	愛知県	81525511595	True	True	True	True	True	True	False	False	0	0	0	0	http://www.st-sophia.jp/	136.883423	35.170750	N/A
+名古屋大学医学部附属病院	愛知県名古屋市昭和区鶴舞町６５番地	愛知県	81527412111	True	True	True	True	True	True	False	False	119	10	7	6	https://www.med.nagoya-u.ac.jp/hospital/	136.921539	35.157745	worse
+浅田レディース名古屋駅前クリニック	愛知県名古屋市中村区名駅4-6-17 名古屋ビルディング3階	愛知県	81525512203	True	True	True	True	True	True	True	True	1545	570	337	22	https://ivf-asada.jp/	136.884796	35.171112	worse
+原田レディースクリニック	愛知県知多市寺本新町1-172	愛知県	81562361103	True	True	True	False	True	True	False	False	0	0	0	0	http://www.harada-lc.com/	136.877014	34.993938	N/A
+豊橋市民病院	愛知県豊橋市青竹町字八間西５０	愛知県	81532336111	True	True	True	True	True	True	True	False	34	14	13	38	https://www.municipal-hospital.toyohashi.aichi.jp/	137.348907	34.760651	consistent
+なごやARTクリニック	愛知県名古屋市中村区太閤１丁目２０番９号　Ｌ’ＥＮＶＯＬ　ＭＥＩＥＫＩ　３階	愛知県	81524511103	True	True	True	True	True	True	False	False	186	92	63	50	https://nagoya-art.jp/	136.880386	35.166542	better
+グリーンベルARTクリニック	愛知県豊田市喜多町2-160コモスクエアWEST３F	愛知県	81565373535	True	True	True	True	True	True	False	True	0	0	0	0	http://gac@greenbellart.com	137.158188	35.086658	N/A
+医療法人　格医会　可世木婦人科ARTクリニック	愛知県名古屋市中区栄	愛知県	81522518801	True	True	True	True	True	True	False	False	0	0	0	0		136.894913	35.165424	N/A
+G&Oレディスクリニック	愛知県刈谷市泉田町折戸6-2	愛知県	81566274103	True	True	True	True	True	True	False	False	0	0	0	0	https://lady.go-clinic.gr.jp/	137.005142	35.021191	N/A
+医療法人　稲垣婦人科	愛知県名古屋市北区大曽根３丁目５８番	愛知県	81529105550	True	True	True	True	True	True	False	False	0	0	0	0	https://oozone-l.com	136.935120	35.191853	N/A
+常滑市民病院	愛知県常滑市飛香台３丁目３番地の３	愛知県	81569353170	True	True	True	True	True	True	True	True	0	0	0	0	http://www.tokonamecityhospital.jp/gynecology/	136.852585	34.896324	N/A
+医療法人双葉会　ふたばクリニック	愛知県半田市吉田町6-82	愛知県	81569205000	True	True	True	True	True	True	False	False	19	6	6	32		136.894226	34.892632	consistent
+名古屋市立大学病院	愛知県名古屋市瑞穂区瑞穂町字川澄１	愛知県	81528515511	True	True	True	True	True	True	True	True	0	0	0	0		136.935196	35.139385	N/A
+藤田医科大学病院	愛知県豊明市沓掛町田楽ケ窪１－９８	愛知県	81562932111	True	True	True	True	True	True	False	False	0	0	0	0	https://hospital.fujita-hu.ac.jp/about/outline.html	137.001389	35.070999	N/A
+小牧市民病院	愛知県小牧市常普請１丁目２０	愛知県	81568764131	True	True	True	True	True	True	False	False	59	18	13	22	https://www.komakihp.gr.jp	136.917191	35.287514	consistent
+さわだウィメンズクリニック	愛知県名古屋市千種区四谷通1-18-1 RICCA 11 ビル３階	愛知県	81527883588	True	True	True	True	True	True	False	False	237	83	63	27		136.964157	35.162178	consistent
+可世木レディスクリニック	愛知県一宮市平和1-9-26	愛知県	81586477333	True	True	True	True	True	True	False	False	0	0	0	0	http://funin-kaseki.com	136.793076	35.301655	N/A
+医療法人伸和會　野崎クリニック	愛知県名古屋市中川区大当郎1-1903	愛知県	81523033811	True	True	True	True	True	True	False	False	0	0	0	0		136.833527	35.132507	N/A
+浅田レディース勝川クリニック	愛知県春日井市松新町1-4　ルネック5F	愛知県	81568352203	True	True	True	True	True	True	True	True	970	326	191	20	https://ivf-asada.jp/	136.955719	35.230465	worse
+おち夢クリニック名古屋	愛知県名古屋市中区丸の内3-19-12　久屋パークサイドビル8F	愛知県	81529682203	True	True	True	True	True	True	False	False	234	131	87	37	https://www.art-ochi.com/	136.907501	35.174450	better
+まるたARTクリニック	愛知県名古屋市千種区覚王山通8-70-1  池下ESビル3階	愛知県	81527640010	True	True	True	True	True	True	False	False	0	0	0	0		136.947006	35.167221	N/A
+ダイヤビルレディースクリニック	愛知県名古屋市西区名駅１－１－１７名駅ダイヤメイテツビル２階	愛知県	81525611880	True	True	True	True	True	True	False	False	0	0	0	0	https://www.daiya-lc.jp/	136.881973	35.173790	N/A
+医療法人みらい　ARTクリニックみらい	愛知県岡崎市大樹寺2丁目２－２	愛知県	81564249293	True	True	True	True	True	True	False	False	0	0	0	0		137.156799	34.982574	N/A
+金山レディースクリニック	愛知県名古屋市熱田区金山町1-202東和ビル6階	愛知県	81526812241	True	True	True	True	True	True	False	False	0	0	0	0	http://klc.ne.jp/	136.900681	35.141369	N/A
+山口レディスクリニック	愛知県名古屋市南区駈上2-7-1	愛知県	81528232121	True	True	True	True	True	True	False	False	0	0	0	0		136.937592	35.112640	N/A
+日本赤十字社愛知医療センター名古屋第一病院	愛知県名古屋市中村区道下町３丁目３５	愛知県	81524815111	True	True	True	True	True	True	False	False	0	0	0	0		136.862427	35.171490	N/A
+医療法人成田育成会　成田産婦人科	愛知県名古屋市中区大須１−２０−３０	愛知県	81522211595	True	True	True	True	True	True	False	False	812	329	231	28	https://www.narita-hospital.or.jp	136.897034	35.160580	consistent
+名古屋市立大学病院	愛知県名古屋市瑞穂区瑞穂町字川澄１	愛知県	81528515511	True	False	True	True	True	True	True	True	0	0	0	0	https://w3hosp.med.nagoya-cu.ac.jp	136.935196	35.139385	N/A
+つかはらウィメンズクリニック	愛知県一宮市水附町2-1	愛知県	81586648080	True	True	True	True	True	True	False	False	0	0	0	0		136.816864	35.297092	N/A
+JA愛知厚生連　江南厚生病院	愛知県江南市高屋町大松原１３７番地	愛知県	81587513333	True	True	True	True	True	True	False	False	0	0	0	0		136.877869	35.355091	N/A
+医療法人　西山産婦人科	三重県津市栄町4丁目72	三重県	81592291200	True	True	True	True	True	True	True	False	83	38	34	41	https://www.nycl.jp/	136.512543	34.736534	better
+国立大学法人三重大学医学部附属病院	三重県津市江戸橋２丁目１７４	三重県	81592321111	True	True	True	True	True	True	True	True	0	0	0	0	https://www.hosp.mie-u.ac.jp/	136.522507	34.742409	N/A
+みのうらレディースクリニック	三重県鈴鹿市磯山3-9-17	三重県	81593800018	True	True	True	True	True	True	False	False	278	155	126	45	https://www.minouralc.com	136.570984	34.816666	better
+医療法人尚豊会みたき総合病院	三重県四日市市生桑町458-1	三重県	81593306000	True	True	True	True	True	True	False	False	23	13	13	56	https://mitaki.or.jp/	136.600021	34.983887	better
+済生会松阪総合病院	三重県松阪市朝日町１区１５－６	三重県	81598512626	True	True	True	True	True	True	True	True	0	0	0	0		136.537064	34.579800	N/A
+ヨナハレディースクリニック	三重県桑名市和泉イノ割２１９	三重県	81594271703	True	True	True	True	True	True	False	False	110	51	39	35	https://yonaha.or.jp/lc/index.html	136.685211	35.044388	consistent
+IVF白子クリニック	三重県鈴鹿市南江島町8-2	三重県	81593882288	True	True	True	True	True	True	False	False	0	0	0	0	https://www.ivf-shiroko.com/	136.593018	34.839069	N/A
+清水産婦人科	滋賀県草津市野村3-18-5	滋賀県	81775624332	True	True	True	True	True	True	False	False	106	50	41	38	https://www.shimizu-lc.jp/	135.949112	35.025551	better
+京都府立医科大学附属病院	京都府京都市上京区出水町	京都府	81752515111	True	True	True	True	True	True	False	False	0	0	0	0	http://www.h.kpu-m.ac.jp	135.769592	35.019176	N/A
+独立行政法人国立病院機構京都医療センター	京都府京都市伏見区深草向畑町１－１	京都府	81756419161	False	False	False	False	False	False	True	False	0	0	0	0		135.773926	34.953758	N/A
+医療法人社団ハシイ産婦人科	京都府向日市寺戸町七ノ坪170	京都府	81759241700	True	True	True	True	True	True	False	False	0	0	0	0	https://hashii-hp.jp/	135.704041	34.960232	N/A
+京都大学医学部附属病院	京都府京都市左京区聖護院川原町54	京都府	81757513269	True	True	True	True	True	True	True	False	0	0	0	0		135.777176	35.020184	N/A
+医療法人田村秀子婦人科医院	京都府京都市中京区御所八幡町229	京都府	81752130523	True	True	True	True	True	True	False	False	101	49	42	42	https//:tamura-hideko.com	135.762817	35.011021	better
+医療法人リプロダクションクリニック　リプロダクションクリニック大阪	大阪府大阪市北区大深町４－２０　グランフロント大阪タワーＡ１５階	大阪府	81661363344	True	True	True	True	True	True	True	True	0	0	0	0	http://www.reposaka.jp/	135.494705	34.703659	N/A
+医療法人越田クリニック	大阪府大阪市北区角田町1-12	大阪府	81663166090	True	True	True	True	True	True	False	False	0	0	0	0	https://www.koshida-cl.or.jp/	135.500977	34.704468	N/A
+奥野病院	大阪府大阪市阿倍野区天王寺町北2-31-4	大阪府	81667192200	True	True	True	True	True	True	False	False	0	0	0	0		135.523254	34.644394	N/A
+医療法人平治会　KAWAレディースクリニック	大阪府堺市南区若松台3-2-3	大阪府	81722972700	True	True	True	True	True	True	False	False	230	75	58	25	https://www.kawa-lc.com/	135.501328	34.490211	consistent
+医療法人脇本産婦人科	大阪府大阪市天王寺区空堀町1-19	大阪府	81667615537	True	True	True	True	True	True	False	False	0	0	0	0	http://www.wakimoto-obgyn.com	135.529358	34.674568	N/A
+医療法人川村産婦人科医院	大阪府高槻市松が丘１－１－１	大阪府	81726877557	True	False	False	False	False	False	False	False	0	0	0	0		135.601257	34.872234	N/A
+医療法人きらめき会　ながまつレディースクリニック	大阪府阪南市鳥取628-1	大阪府	81724723788	True	False	False	False	False	False	False	False	0	0	0	0		135.231339	34.349743	N/A
+大阪NewARTクリニック	大阪府大阪市北区梅田2ｰ6ｰ20パシフィックマークス西梅田10F	大阪府	81663411556	True	True	True	True	True	True	True	True	0	0	0	0	http://hart.or.jp	135.490341	34.697544	N/A
+医療法人聖誕会　うめだファティリティークリニック	大阪府大阪市北区豊崎3-17-6	大阪府	81663710363	True	True	True	True	True	True	True	True	788	175	93	12		135.497299	34.709988	worse
+レディースクリニックかたかみ	大阪府大阪市淀川区西中島1-11-23	大阪府	81661002525	True	True	True	True	True	True	False	False	0	0	0	0	http://katakami-lc.jp	135.499008	34.724979	N/A
+医療法人三慧会IVF大阪クリニック	大阪府東大阪市長田東1-1-14	大阪府	81643088824	True	True	True	True	True	True	False	False	583	273	125	0	https://www.ivfosaka.com/	135.592926	34.677856	worse
+医療法人イワサクリニック	大阪府枚方市香里園町9-22	大阪府	81728311666	True	True	True	False	False	True	False	False	159	54	39	25		135.632431	34.785618	consistent
+医療法人オーク会　オーク住吉産婦人科	大阪府大阪市西成区玉出西	大阪府	81120009345	True	True	True	True	True	True	True	True	0	0	0	0	https://www.oakclinic-group.com/sumiyoshi/	135.488907	34.627426	N/A
+医療法人三慧会　IVFなんばクリニック	大阪府大阪市西区南堀江1-17-28	大阪府	81665348824	True	True	True	True	True	True	True	True	552	266	79	14	https://www.ivfnamba.com/	135.495178	34.670345	worse
+医療法人紀映会　レディースクリニック北浜	大阪府大阪市中央区高麗橋1-7-3 The Kitahama PLAZA 3F	大阪府	81662028739	True	True	True	True	True	True	False	False	0	0	0	0		135.506683	34.689426	N/A
+医療法人天の川レディースクリニック	大阪府交野市私部西2-3-25	大阪府	81728921124	True	True	True	True	True	True	False	False	605	267	209	35	http://amanogawa-ivf.com/	135.675720	34.785515	better
+医療法人三慧会HORACグランフロント大阪クリニック	大阪府大阪市北区大深町3-1グランフロント大阪タワーB15階	大阪府	81663778824	True	True	True	True	True	True	False	False	374	141	16	4	https://www.ivfhorac.com/	135.494339	34.705833	worse
+医療法人オーク会　オーク梅田レディースクリニック	大阪府大阪市北区梅田2丁目5番25号　ハービスプラザ 3階	大阪府	81120009345	True	True	True	True	True	True	True	True	0	0	0	0	https://www.oakclinic-group.com/umeda_ladys/	135.491760	34.698177	N/A
+府中のぞみクリニック	大阪府和泉市府中町2-1-3　南海和泉府中ビル	大阪府	81725405033	True	True	True	True	True	True	False	False	0	0	0	0		135.422791	34.485977	N/A
+地方独立行政法人大阪府立病院機構　大阪急性期・総合医療センター	大阪府大阪市住吉区万代東３丁目１－５６	大阪府	81666921201	True	True	True	True	True	True	True	True	88	14	11	13	http://www.gh.opho.jp/index.php	135.503952	34.616692	worse
+医療法人正育会　春木レディースクリニック	大阪府大阪市中央区南船場4-3-2 ヒューリック心斎橋ビル7階	大阪府	81662813788	True	True	True	True	True	True	False	False	446	204	153	34	http://haruki-cl.com/	135.500137	34.676556	better
+医療法人後藤レディースクリニック	大阪府高槻市白梅町4-13ｼﾞｵ高槻ミューズEX5F	大阪府	81726838510	True	True	True	True	True	True	False	False	0	0	0	0		135.618942	34.853638	N/A
+医療法人桃花会　園田桃代ARTクリニック	大阪府豊中市新千里東町1-5-3 千里朝日阪急ビル3階	大阪府	81661551511	True	True	True	True	True	True	False	False	0	0	0	0	http://www.sonoda-art.com	135.495880	34.808746	N/A
+大阪大学医学部附属病院	大阪府吹田市山田丘	大阪府	81668795111	True	True	True	True	True	True	True	True	0	0	0	0		135.524002	34.820915	N/A
+医療法人天の川レディースクリニック　ひらかた院	大阪府枚方市大垣内町2-17-13　枚方洛元ビル３F	大阪府	81728044124	True	True	True	True	True	True	False	False	114	54	63	55	https://hirakata-art.com/	135.653809	34.814564	better
+医療法人愛生会扇町レディースクリニック	大阪府大阪市北区野崎町1-20	大阪府	81663112511	True	True	True	True	True	True	True	True	0	0	0	0	https://olc.ne.jp	135.507889	34.701649	N/A
+医療法人ART会　にしたんARTクリニック神戸三宮院	兵庫県神戸市中央区雲井通7丁目1-1 ミント神戸15F	兵庫県	81782613500	True	True	True	True	True	True	False	False	0	0	0	0	https://www.ivf.co.jp/	135.195938	34.694664	N/A
+親愛レディースクリニック	兵庫県加古川市加古川町篠原町50	兵庫県	81794215511	True	True	True	True	True	True	False	False	0	0	0	0		134.838638	34.767849	N/A
+レディースクリニックTaya	兵庫県伊丹市伊丹1丁目10-14-201-5	兵庫県	81727717717	True	True	True	True	True	True	False	False	0	0	0	0	https://lc-taya.jp/	135.420456	34.780941	N/A
+山下レディースクリニック	兵庫県神戸市中央区磯上通7-1-8	兵庫県	81782656476	True	True	True	True	True	True	False	False	218	116	83	38	https://ylc.jp/	135.197220	34.691521	better
+神戸元町夢クリニック	兵庫県神戸市中央区明石町44 神戸御幸ビル3階	兵庫県	81783252121	True	True	True	True	True	True	True	False	241	123	89	37	https://www.yumeclinic.or.jp	135.191284	34.688770	better
+医療法人協和会　第二協立病院	兵庫県川西市栄町5-28	兵庫県	81727581123	True	True	True	True	True	True	True	True	0	0	0	0	https://www.kyowakai-artc.com/	135.413910	34.830948	N/A
+高橋産婦人科クリニック	兵庫県西宮市六湛寺町15-5	兵庫県	81798330150	False	False	False	False	False	False	False	False	0	0	0	0	https://www.tgc.or.jp	135.339615	34.737045	N/A
+兵庫医科大学病院	兵庫県西宮市武庫川町１－１	兵庫県	81798456111	True	True	True	True	True	True	True	True	0	0	0	0	https://www.hosp.hyo-med.ac.jp/	135.378647	34.719002	N/A
+公立学校共済組合近畿中央病院	兵庫県伊丹市車塚３丁目１番地	兵庫県	81727813712	True	True	True	True	True	True	False	False	0	0	0	0	https://www.kich.itami.hyogo.jp/	135.401642	34.763142	N/A
+医療法人授幸会久永婦人科クリニック	奈良県奈良市西大寺東町2-1-63 サンワシティ西大寺３F	奈良県	81742325505	True	True	True	True	True	True	False	False	209	69	52	25	http://www.hisanaga-cl.com	135.783539	34.694023	consistent
+医療法人明日香会ASKAレディースクリニック	奈良県奈良市北登美ヶ丘３丁目３−１７	奈良県	81742517717	True	True	True	True	True	True	False	False	396	159	0	0	https://aska-cl.com	135.757965	34.723125	worse
+医療法人平治会　ミズクリニックメイワン	奈良県橿原市四条町871-1	奈良県	81744200028	True	True	True	True	True	True	False	False	549	195	0	0	https://www.mscl-mayone.com	135.794937	34.504318	worse
+富雄産婦人科	奈良県奈良市三松	奈良県	81742430381	True	True	True	True	True	True	False	False	0	0	0	0		135.730652	34.699429	N/A
+奥村レディースクリニック	和歌山県橋本市東家4-17-13	和歌山県	81736328511	True	True	True	True	True	True	False	False	47	19	0	0		135.610321	34.315758	worse
+母と子の長田産科婦人科クリニック	鳥取県米子市上後藤8丁目5-1	鳥取県	81859293131	True	False	False	False	False	False	False	False	0	0	0	0		133.315384	35.448315	N/A
+ミオ・ファティリティ・クリニック	鳥取県米子市車尾南2-1-1	鳥取県	81859355211	True	True	True	True	True	True	True	False	258	102	75	74	https://www.mfc.or.jp	133.360931	35.427834	consistent
+タグチIVFレディースクリニック	鳥取県鳥取市覚寺63番地6	鳥取県	81857392121	True	True	True	True	False	True	False	False	107	49	37	35	https://taguchi-ivf.or.jp/	134.228882	35.520824	consistent
+島根大学医学部附属病院	島根県出雲市塩冶町８９－１	島根県	81853232111	True	True	True	True	True	True	True	True	0	0	0	0	http://www.med.shimane-u.ac.jp/hospital/index.html	132.752869	35.347454	N/A
+島根県立中央病院	島根県出雲市姫原４丁目１－１	島根県	81853225111	True	True	True	True	True	True	False	False	5	0	0	0	https://www.spch.izumo.shimane.jp/	132.754318	35.375057	worse
+倉敷成人病クリニック	岡山県倉敷市白楽町250-1	岡山県	81864222115	True	True	True	True	True	True	False	False	246	93	74	30	https://www.fkmc.or.jp	133.764633	34.587917	consistent
+倉敷成人病センター	岡山県倉敷市白楽町広堀２５０	岡山県	81864222111	False	False	False	False	False	False	True	True	0	0	0	0	https://www.fkmc.or.jp	133.766754	34.588619	N/A
+三宅医院	岡山県岡山市南区大福369-8	岡山県	81862825100	True	True	True	True	True	True	True	False	0	0	0	0	https://miyake-miyakegroup.jp/	133.873566	34.620647	N/A
+公益財団法人大原記念倉敷中央医療機構　倉敷中央病院	岡山県倉敷市美和１丁目１－１（倉敷郵便局私書箱第２７号）	岡山県	81864220210	True	True	True	True	True	True	False	False	0	0	0	0	https://www.kchnet.or.jp/	133.774002	34.602867	N/A
+岡山大学病院	岡山県岡山市北区鹿田町２丁目５番１号	岡山県	81862237151	True	True	True	True	True	True	True	True	23	13	5	21	https://www.okayama-u.ac.jp/user/hospital/	133.920837	34.650990	consistent
+岡山二人クリニック　	岡山県岡山市北区津高	岡山県	81862567717	True	True	True	True	True	True	True	True	647	306	189	30		133.919113	34.696552	consistent
+いぐち腎泌尿器クリニック	広島県広島市中区紙屋町2丁目2-2　紙屋町ビル5階	広島県	81822421145	False	False	False	False	False	False	True	True	0	0	0	0	https://iguchi-jinhinyouki.jp/	132.457245	34.394661	N/A
+広島中央通り　香月産婦人科	広島県広島市中区三川町7-1 香月メディカルビル5F	広島県	81825462557	True	True	True	True	True	True	False	False	128	53	37	29	http://uketuke5f@katsuki-medical.com	132.462143	34.389839	consistent
+広島ハートクリニック	広島県広島市南区松原町3-1-301	広島県	81825673866	True	True	True	True	True	True	False	False	0	0	0	0	https://www.hiroshima-hart.jp/	132.477310	34.395535	N/A
+よしだレディースクリニック内科・小児科	広島県福山市新涯町3丁目19-36	広島県	81849540341	True	True	True	True	True	True	False	False	0	0	0	0		133.391495	34.460827	N/A
+IVFクリニックひろしま	広島県広島市南区松原町5番1号　BIG FRONTひろしま４階	広島県	81822641131	True	True	True	True	True	True	True	False	154	60	51	33	http://www://ivf-hiroshima.jp	132.474686	34.395699	consistent
+医療法人絹谷産婦人科	広島県広島市中区本通8-23本通ヒルズ4階	広島県	81822476399	True	True	True	True	True	True	False	False	778	298	228	30	https://www.kinutani.org/	132.458817	34.393097	consistent
+山口県立総合医療センター	山口県防府市大字大崎１００７７番地	山口県	81835224411	True	True	True	True	True	True	True	True	0	0	0	0	https://www.ymghp.jp/	131.543915	34.072056	N/A
+山口大学医学部附属病院	山口県宇部市南小串１丁目１－１	山口県	81836222288	True	True	True	True	True	True	True	False	0	0	0	0		131.248962	33.959908	N/A
+地域医療機能推進機構　徳山中央病院	山口県周南市孝田町１－１	山口県	81834284411	True	True	True	True	True	True	False	False	60	12	8	13	https://tokuyama.jcho.go.jp	131.832870	34.047676	worse
+新山口こうのとりクリニック	山口県山口市小郡花園町	山口県	81839028585	True	True	True	True	True	True	True	False	0	0	0	0		131.396118	34.088913	N/A
+中山産婦人科・小児科	徳島県板野郡藍住町東中富字長江傍示５番地6	徳島県	81886920333	True	True	True	True	True	True	False	False	0	0	0	0		134.477249	34.128536	N/A
+徳島大学病院	徳島県徳島市蔵本町2丁目50-1	徳島県	81886313111	True	True	True	True	True	True	True	True	264	0	0	0		134.518417	34.075180	worse
+中山産婦人科小児科	徳島県板野郡藍住町東中富字長江傍示5-6	徳島県	81886920333	True	True	True	True	True	True	False	False	91	32	21	23	https://www.nakayamaobgyn.jp	134.477249	34.128536	consistent
+厚仁病院	香川県丸亀市通町133	香川県	81877232525	True	True	True	True	True	True	True	True	0	0	0	0	https://obgy.koujinkai-kagawa.net	133.796310	34.291225	N/A
+医療法人ヒューマンリプロダクション つばきウイメンズクリニック	愛媛県松山市北土居五丁目11番7号	愛媛県	81899051122	True	True	True	True	True	True	True	True	464	170	108	23	http://www.tsubaki-wc.com	132.779343	33.807865	consistent
+医療法人　ハートレディースクリニック	愛媛県東温市野田2-100-1	愛媛県	81899550082	True	True	True	True	True	True	False	False	48	17	11	64	http://hlc.d.dooo.jp/	132.837997	33.794518	consistent
+独立行政法人労働者健康安全機構　愛媛労災病院	愛媛県新居浜市南小松原町１３－２７	愛媛県	81897336191	True	True	True	True	True	True	False	False	11	3	2	18		133.291885	33.974522	consistent
+愛媛大学医学部附属病院	愛媛県東温市志津川４５４	愛媛県	81899645111	True	True	True	True	True	True	True	True	0	0	0	0		132.879242	33.802807	N/A
+ほりたレディースクリニック	福岡県北九州市小倉北区京町3-1-1 B1F	福岡県	81935134122	True	True	True	True	True	True	False	False	173	76	57	33		130.882538	33.885117	consistent
+en婦人科クリニック	福岡県福岡市中央区谷1-12-37　六本松USビル4F	福岡県	81927912533	True	True	True	True	True	True	False	False	0	0	0	0		130.379318	33.576725	N/A
+en婦人科クリニック	福岡県福岡市中央区谷1-12-37六本松USビル4F	福岡県	81927912533	True	True	True	True	True	True	False	False	0	0	0	0		130.379318	33.576725	N/A
+医療法人井上善レディースクリニック	福岡県福岡市中央区天神1-2-12 メットライフ天神ビル6階	福岡県	81924065302	True	True	True	True	True	True	False	False	0	0	0	0	http://inoue-lc.com	130.402786	33.588833	N/A
+医療法人社団高邦会高木病院	福岡県大川市酒見141-11	福岡県	81944870001	True	True	True	True	True	True	True	True	241	89	71	30	https://takagi.kouhoukai.or.jp/	130.379257	33.207043	consistent
+齋藤シーサイドレディースクリニック	福岡県遠賀郡芦屋町山鹿852-57	福岡県	81937018880	True	True	True	True	True	True	False	False	0	0	0	0		130.667374	33.905807	N/A
+セントマザー産婦人科医院	福岡県北九州市八幡西区折尾4-9-12	福岡県	81936012000	True	True	True	True	True	True	True	True	0	0	0	0	https://www.stmother.com/	130.710876	33.865818	N/A
+医療法人　井上善レディースクリニック	福岡県福岡市中央区天神1-2-12 メットライフ天神ビル６F	福岡県	81924065302	True	True	True	True	True	False	False	False	0	0	0	0	http://inouelc.com	130.402786	33.588833	N/A
+独立行政法人国立病院機構福岡東医療センター	福岡県古賀市千鳥1-1-1	福岡県	81929432331	True	True	True	True	True	True	False	False	0	0	0	0	https://fukuokae.hosp.go.jp/	130.473541	33.740604	N/A
+医療法人アイブイエフ詠田クリニック	福岡県福岡市中央区天神1-12-1　日之出福岡ビル6階	福岡県	81927356655	True	True	True	True	True	True	False	False	0	0	0	0	https://www.ivf-nagata.com/	130.399902	33.591705	N/A
+医療法人　日浅レディースクリニック	福岡県福岡市中央区大名2-2-7　大名センタービル2F	福岡県	81927266105	True	True	True	True	True	True	False	False	0	0	0	0		130.393112	33.587852	N/A
+医療法人　蔵本ウイメンズクリニック	福岡県福岡市博多区博多駅東1-1-19	福岡県	81924825558	True	True	True	True	True	True	True	True	0	0	0	0		130.422363	33.592453	N/A
+いでウイメンズクリニック	福岡県久留米市天神町4-1	福岡県	81942331114	True	True	True	True	True	True	False	False	124	52	38	30	http://www.ide-woman.com	130.522232	33.312923	consistent
+谷口眼科婦人科	佐賀県武雄市武雄町武雄385-2	佐賀県	81954233170	True	True	True	True	True	True	False	False	116	57	44	38	https://eiseikai-artclinic.com	129.992661	33.187374	better
+医療法人　おおくま産婦人科	佐賀県佐賀市高木瀬西2丁目10番5号	佐賀県	81952316117	True	True	True	True	True	True	False	False	0	0	0	0		130.288849	33.281994	N/A
+杉田レディースクリニック	長崎県長崎市松山町3-94 3階	長崎県	81958493040	True	False	False	False	False	False	False	False	0	0	0	0		129.862274	32.774166	N/A
+ART岡本ウーマンズクリニック	長崎県長崎市江戸町7-1	長崎県	81958202864	True	True	True	True	True	True	False	False	0	0	0	0	https://www.okamotoclinic.gr.jp/	129.874725	32.744549	N/A
+ART女性クリニック	熊本県熊本市中央区神水本町	熊本県	81963603670	True	True	True	True	True	True	True	True	309	118	77	25	http://art-kumamoto.com	130.741684	32.781807	consistent
+北熊本井上産婦人科医院	熊本県熊本市北区鶴羽田1丁目14-27	熊本県	81963453916	True	True	True	True	True	True	False	False	0	0	0	0	https://inoue-lc.jp/	130.726440	32.854694	N/A
+熊本大学病院	熊本県熊本市中央区本荘１丁目１－１	熊本県	81963442111	True	True	True	True	True	True	False	False	0	0	0	0		130.711456	32.796139	N/A
+医療法人社団ソフィア愛育会　ソフィアレディースクリニック水道町	熊本県熊本市中央区水道町9-5-1	熊本県	81963222996	True	True	True	True	True	True	False	False	227	102	82	36	https://www.suidouchou-lc.jp/	130.714096	32.802574	better
+川野病院	熊本県熊本市中央区大江６丁目25-1	熊本県	81963663275	False	False	False	False	False	False	True	True	0	0	0	0	https://www.kawano-hp.jp	130.725082	32.795208	N/A
+大分大学医学部附属病院	大分県由布市挾間町医大ケ丘１丁目１番地	大分県	81975494411	True	True	True	True	True	True	False	False	0	0	0	0		131.534531	33.210209	N/A
+セント・ルカ産婦人科	大分県大分市東大道1丁目4番5号	大分県	81975471234	True	True	True	True	True	True	False	False	172	67	50	29		131.604050	33.233017	consistent
+大分県立病院	大分県大分市大字豊饒2-8-1	大分県	81975467111	False	False	False	False	False	False	False	False	0	0	0	0	https://www.oitapref-hosp.jp/	131.600372	33.208027	N/A
+医療法人仁徳会　渡辺産婦人科	宮崎県日向市大字平岩７１８番地	宮崎県	81982571011	True	True	True	True	True	True	False	False	0	0	0	0	https://watanabehospital.jp	131.626770	32.368778	N/A
+医療法人社団　豊德会　丸田病院	宮崎県都城市八幡町4-2	宮崎県	81986237060	True	True	True	True	True	True	False	False	0	0	0	0		131.058380	31.721685	N/A
+徳永産婦人科	鹿児島県鹿児島市田上2-27-17	鹿児島県	81992020007	True	True	True	True	True	True	False	False	276	92	61	22	https://tokunaga-lc.jp/	130.531860	31.574106	consistent
+医療法人仁知会　竹内レディースクリニック	鹿児島県姶良市東餠田502-2	鹿児島県	81995652296	True	True	True	True	True	True	True	True	221	114	80	36	https://takeuchi-ladies.jp/	130.632263	31.731512	better
+徳永産婦人科	鹿児島県鹿児島市田上2丁目27-17	鹿児島県	81992020007	True	True	True	True	True	True	False	False	0	0	0	0	https://tokunaga-lc.jp/	130.531860	31.574106	N/A
+濵島泌尿器科クリニック	鹿児島県鹿児島市上之園町17-15第一マキビル1階	鹿児島県	81992511500	False	False	False	False	False	False	True	True	0	0	0	0		130.547409	31.580753	N/A
+あかつきARTクリニック	鹿児島県鹿児島市中央町11番地２F	鹿児島県	81992968177	True	True	True	True	True	True	False	False	100	58	32	32	http://akatsuki-art.jp	130.544250	31.583586	consistent
+田島産婦人科	鹿児島県薩摩川内市平佐	鹿児島県	81996220311	True	False	False	False	False	False	False	False	0	0	0	0		130.312897	31.815609	N/A
+レディースクリニックあいいく	鹿児島県鹿児島市小松原1丁目40-2	鹿児島県	81992608878	True	True	True	True	True	True	False	False	120	63	42	35	https://aiiku-clinic.jp/	130.531357	31.533987	consistent
+松田ウイメンズクリニック	鹿児島県鹿児島市山之口町鹿児島中央ビル3階	鹿児島県	81992244124	True	True	True	True	True	True	False	False	240	117	90	38	http://mwc-ivf.jp	130.553345	31.588207	better
+友愛医療センター	沖縄県豊見城市字与根50番地5	沖縄県	81988503811	True	True	True	True	True	True	True	False	90	27	6	6		127.650314	26.171698	worse
+医療法人　海秀会　うえむら病院	沖縄県中頭郡中城村南上原	沖縄県	81988953535	True	True	True	True	True	True	True	True	233	85	59	25		127.771294	26.250996	consistent
+琉球大学病院	沖縄県中頭郡西原町字上原２０７	沖縄県	81988953331	True	True	True	True	True	True	True	True	45	15	11	24	http://www.hosp.u-ryukyu.ac.jp/index.html	127.758636	26.242254	consistent
+（法）海秀会　うえむら病院	沖縄県中頭郡中城村南上原803-3	沖縄県	81988953535	True	True	True	True	True	True	True	False	213	111	69	32		127.773941	26.248049	consistent

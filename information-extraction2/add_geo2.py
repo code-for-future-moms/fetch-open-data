@@ -4,9 +4,11 @@ import json
 import time
 import urllib.request
 
-# 国土地理院API
-# 参考: https://elsammit-beginnerblg.hatenablog.com/entry/2021/07/11/122916
-url_base = "https://msearch.gsi.go.jp/address-search/AddressSearch?q="
+import xml.etree.ElementTree as ET
+
+# シンプルジオコーディング実験を利用
+# 参考: https://geocode.csis.u-tokyo.ac.jp/home/simple-geocoding/
+url_base = "https://geocode.csis.u-tokyo.ac.jp/cgi-bin/simple_geocode.cgi?charset=UTF8&addr="
 
 parser = argparse.ArgumentParser(description='Parse given URL')
 parser.add_argument('input', type=str, help='input file name')
@@ -25,10 +27,12 @@ with open(args.input, newline='') as csvfile:
         req.add_header("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36")
         with urllib.request.urlopen(req) as response:
             tmp = response.read().decode('utf-8')
-            data = json.loads(tmp)
-            long = str(data[0]['geometry']['coordinates'][0])
-            lat = str(data[0]['geometry']['coordinates'][1])
+            root = ET.fromstring(tmp)
+            # 複数候補が返ってくることがあるから一つ目だけ採用
+            first_candidate = root.find('candidate')
+            long = first_candidate.find("longitude").text
+            lat = first_candidate.find("latitude").text
             row.append(long)
             row.append(lat)
             print("\t".join(row))
-            time.sleep(10)
+            time.sleep(0.3)
