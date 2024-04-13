@@ -1,9 +1,15 @@
+import argparse
 import csv
 import math
 
 national_ave = 26.6 # 凍結胚の移植あたり出生率(%)
 
-with open('../data/cfa-20231213v2.tsv', newline='') as csvfile:
+parser = argparse.ArgumentParser(description='Parse given URL')
+parser.add_argument('input', type=str, help='input file name')
+
+args = parser.parse_args()
+
+with open(args.input, newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter='\t', quotechar='"')
     header = next(reader)
     header.append("icon")
