@@ -21,7 +21,9 @@ with open(args.input, newline='') as csvfile:
     print("\t".join(header))
     for row in reader:
         full_url = url_base + urllib.parse.quote(row[1])
-        with urllib.request.urlopen(full_url) as response:
+        req = urllib.request.Request(full_url)
+        req.add_header("User-Agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36")
+        with urllib.request.urlopen(req) as response:
             tmp = response.read().decode('utf-8')
             data = json.loads(tmp)
             long = str(data[0]['geometry']['coordinates'][0])
@@ -29,4 +31,4 @@ with open(args.input, newline='') as csvfile:
             row.append(long)
             row.append(lat)
             print("\t".join(row))
-            time.sleep(0.01)
+            time.sleep(10)
