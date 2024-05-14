@@ -40,4 +40,4 @@ for i in range(47):
     if not urls_page: # 1ページしかないなら
         get_hospital_id(url, ids)
     for id in ids:
-        print("python extract.py https://funin-fuiku.cfa.go.jp/clinic/search/modal.php?id={}".format(id))
+        print("python ./information-extraction2/extract.py https://funin-fuiku.cfa.go.jp/clinic/search/modal.php?id={}".format(id))
