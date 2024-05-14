@@ -1,0 +1,45 @@
+name: Update fertility data
+
+on:
+  schedule:
+    - cron: "5 0 1 * *" # Run monthly
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9' 
+      - name: Install requirements
+        run: pip install -r requirements.txt
+      - name: Scrape and create shell script
+        run: python ./information-extraction2/extract_urls.py > run.sh && chmod +x run.sh
+      - name: Run the script for information extraction
+        run: |
+          ./run.sh > tmp.tsv
+      - name: Add lat lon
+        run: python ./information-extraction2/add_geo2.py tmp.tsv > tmp2.tsv
+      - name: Add icon
+        run: python ./information-extraction2/add_icon.py tmp2.tsv > tmp3.tsv
+      - name: Get current date
+        env:
+          TZ: 'Asia/Tokyo'
+        run: echo "CURRENT_DATETIME=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+      - name: Replace file
+        run: mv tmp3.tsv data && mv data/tmp3.tsv data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
+      - name: Add and Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
+          message: 'Add latest stats'
+          new_branch: update_${{ env.CURRENT_DATETIME }} 
+    
+    with:
+      message: "Updated data."
+
