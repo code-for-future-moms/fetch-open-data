@@ -38,8 +38,4 @@ jobs:
         with:
           add: data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
           message: 'Add latest stats'
-          new_branch: update_${{ env.CURRENT_DATETIME }} 
-    
-    with:
-      message: "Updated data."
-
+          new_branch: update_${{ env.CURRENT_DATETIME }}
