@@ -7,6 +7,8 @@ on:
 
 jobs:
   scrape:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
 
     steps:
@@ -27,15 +29,19 @@ jobs:
         run: python ./information-extraction2/add_geo2.py tmp.tsv > tmp2.tsv
       - name: Add icon
         run: python ./information-extraction2/add_icon.py tmp2.tsv > tmp3.tsv
-      - name: Get current date
+      - name: Get current datetime
         env:
           TZ: 'Asia/Tokyo'
         run: echo "CURRENT_DATETIME=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
+      - name: Get current date
+        env:
+          TZ: 'Asia/Tokyo'
+        run: echo "CURRENT_DATE=$(date +'%Y%m%d')" >> $GITHUB_ENV
       - name: Replace file
-        run: mv tmp3.tsv data && mv data/tmp3.tsv data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
+        run: mv tmp3.tsv data && mv data/tmp3.tsv data/cfa-${{ env.CURRENT_DATE}}v3.tsv
       - name: Add and Commit
         uses: EndBug/add-and-commit@v9
         with:
-          add: data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
+          add: data/cfa-${{ env.CURRENT_DATE}}v3.tsv
           message: 'Add latest stats'
           new_branch: update_${{ env.CURRENT_DATETIME }}
