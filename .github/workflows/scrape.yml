@@ -32,7 +32,7 @@ jobs:
           TZ: 'Asia/Tokyo'
         run: echo "CURRENT_DATETIME=$(date +'%Y%m%d%H%M%S')" >> $GITHUB_ENV
       - name: Replace file
-        run: mv tmp3.tsv data && mv data/tmp3.tsv data/cfa-${{ env.CURRENT_DATETIME}}v3.tsv
+        run: mv tmp3.tsv data && mv data/tmp3.tsv data/cfa-${{ env.CURRENT_DATETIME:0:-6}}v3.tsv
       - name: Add and Commit
         uses: EndBug/add-and-commit@v9
         with:
